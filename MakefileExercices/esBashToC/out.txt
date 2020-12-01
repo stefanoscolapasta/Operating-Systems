@@ -1,0 +1,204 @@
+gcc -ansi -Wall -Wpedantic -o main.exe main.o variabiliglobali.o
+variabiliglobali.o:(.data+0x0): definizione multipla di "var1"
+main.o:(.data+0x0): definito qui per la prima volta
+variabiliglobali.o:(.data+0x4): definizione multipla di "var2"
+main.o:(.data+0x4): definito qui per la prima volta
+variabiliglobali.o:(.data+0x8): definizione multipla di "var3"
+main.o:(.data+0x8): definito qui per la prima volta
+variabiliglobali.o:(.data+0xc): definizione multipla di "var4"
+main.o:(.data+0xc): definito qui per la prima volta
+variabiliglobali.o:(.data+0x10): definizione multipla di "var5"
+main.o:(.data+0x10): definito qui per la prima volta
+variabiliglobali.o:(.data+0x14): definizione multipla di "var6"
+main.o:(.data+0x14): definito qui per la prima volta
+variabiliglobali.o:(.data+0x18): definizione multipla di "var7"
+main.o:(.data+0x18): definito qui per la prima volta
+variabiliglobali.o:(.data+0x1c): definizione multipla di "var8"
+main.o:(.data+0x1c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x20): definizione multipla di "var9"
+main.o:(.data+0x20): definito qui per la prima volta
+variabiliglobali.o:(.data+0x24): definizione multipla di "var10"
+main.o:(.data+0x24): definito qui per la prima volta
+variabiliglobali.o:(.data+0x28): definizione multipla di "var11"
+main.o:(.data+0x28): definito qui per la prima volta
+variabiliglobali.o:(.data+0x2c): definizione multipla di "var12"
+main.o:(.data+0x2c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x30): definizione multipla di "var13"
+main.o:(.data+0x30): definito qui per la prima volta
+variabiliglobali.o:(.data+0x34): definizione multipla di "var14"
+main.o:(.data+0x34): definito qui per la prima volta
+variabiliglobali.o:(.data+0x38): definizione multipla di "var15"
+main.o:(.data+0x38): definito qui per la prima volta
+variabiliglobali.o:(.data+0x3c): definizione multipla di "var16"
+main.o:(.data+0x3c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x40): definizione multipla di "var17"
+main.o:(.data+0x40): definito qui per la prima volta
+variabiliglobali.o:(.data+0x44): definizione multipla di "var18"
+main.o:(.data+0x44): definito qui per la prima volta
+variabiliglobali.o:(.data+0x48): definizione multipla di "var19"
+main.o:(.data+0x48): definito qui per la prima volta
+variabiliglobali.o:(.data+0x4c): definizione multipla di "var20"
+main.o:(.data+0x4c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x50): definizione multipla di "var21"
+main.o:(.data+0x50): definito qui per la prima volta
+variabiliglobali.o:(.data+0x54): definizione multipla di "var22"
+main.o:(.data+0x54): definito qui per la prima volta
+variabiliglobali.o:(.data+0x58): definizione multipla di "var23"
+main.o:(.data+0x58): definito qui per la prima volta
+variabiliglobali.o:(.data+0x5c): definizione multipla di "var24"
+main.o:(.data+0x5c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x60): definizione multipla di "var25"
+main.o:(.data+0x60): definito qui per la prima volta
+variabiliglobali.o:(.data+0x64): definizione multipla di "var26"
+main.o:(.data+0x64): definito qui per la prima volta
+variabiliglobali.o:(.data+0x68): definizione multipla di "var27"
+main.o:(.data+0x68): definito qui per la prima volta
+variabiliglobali.o:(.data+0x6c): definizione multipla di "var28"
+main.o:(.data+0x6c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x70): definizione multipla di "var29"
+main.o:(.data+0x70): definito qui per la prima volta
+variabiliglobali.o:(.data+0x74): definizione multipla di "var30"
+main.o:(.data+0x74): definito qui per la prima volta
+variabiliglobali.o:(.data+0x78): definizione multipla di "var31"
+main.o:(.data+0x78): definito qui per la prima volta
+variabiliglobali.o:(.data+0x7c): definizione multipla di "var32"
+main.o:(.data+0x7c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x80): definizione multipla di "var33"
+main.o:(.data+0x80): definito qui per la prima volta
+variabiliglobali.o:(.data+0x84): definizione multipla di "var34"
+main.o:(.data+0x84): definito qui per la prima volta
+variabiliglobali.o:(.data+0x88): definizione multipla di "var35"
+main.o:(.data+0x88): definito qui per la prima volta
+variabiliglobali.o:(.data+0x8c): definizione multipla di "var36"
+main.o:(.data+0x8c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x90): definizione multipla di "var37"
+main.o:(.data+0x90): definito qui per la prima volta
+variabiliglobali.o:(.data+0x94): definizione multipla di "var38"
+main.o:(.data+0x94): definito qui per la prima volta
+variabiliglobali.o:(.data+0x98): definizione multipla di "var39"
+main.o:(.data+0x98): definito qui per la prima volta
+variabiliglobali.o:(.data+0x9c): definizione multipla di "var40"
+main.o:(.data+0x9c): definito qui per la prima volta
+variabiliglobali.o:(.data+0xa0): definizione multipla di "var41"
+main.o:(.data+0xa0): definito qui per la prima volta
+variabiliglobali.o:(.data+0xa4): definizione multipla di "var42"
+main.o:(.data+0xa4): definito qui per la prima volta
+variabiliglobali.o:(.data+0xa8): definizione multipla di "var43"
+main.o:(.data+0xa8): definito qui per la prima volta
+variabiliglobali.o:(.data+0xac): definizione multipla di "var44"
+main.o:(.data+0xac): definito qui per la prima volta
+variabiliglobali.o:(.data+0xb0): definizione multipla di "var45"
+main.o:(.data+0xb0): definito qui per la prima volta
+variabiliglobali.o:(.data+0xb4): definizione multipla di "var46"
+main.o:(.data+0xb4): definito qui per la prima volta
+variabiliglobali.o:(.data+0xb8): definizione multipla di "var47"
+main.o:(.data+0xb8): definito qui per la prima volta
+variabiliglobali.o:(.data+0xbc): definizione multipla di "var48"
+main.o:(.data+0xbc): definito qui per la prima volta
+variabiliglobali.o:(.data+0xc0): definizione multipla di "var49"
+main.o:(.data+0xc0): definito qui per la prima volta
+variabiliglobali.o:(.data+0xc4): definizione multipla di "var50"
+main.o:(.data+0xc4): definito qui per la prima volta
+variabiliglobali.o:(.data+0xc8): definizione multipla di "var51"
+main.o:(.data+0xc8): definito qui per la prima volta
+variabiliglobali.o:(.data+0xcc): definizione multipla di "var52"
+main.o:(.data+0xcc): definito qui per la prima volta
+variabiliglobali.o:(.data+0xd0): definizione multipla di "var53"
+main.o:(.data+0xd0): definito qui per la prima volta
+variabiliglobali.o:(.data+0xd4): definizione multipla di "var54"
+main.o:(.data+0xd4): definito qui per la prima volta
+variabiliglobali.o:(.data+0xd8): definizione multipla di "var55"
+main.o:(.data+0xd8): definito qui per la prima volta
+variabiliglobali.o:(.data+0xdc): definizione multipla di "var56"
+main.o:(.data+0xdc): definito qui per la prima volta
+variabiliglobali.o:(.data+0xe0): definizione multipla di "var57"
+main.o:(.data+0xe0): definito qui per la prima volta
+variabiliglobali.o:(.data+0xe4): definizione multipla di "var58"
+main.o:(.data+0xe4): definito qui per la prima volta
+variabiliglobali.o:(.data+0xe8): definizione multipla di "var59"
+main.o:(.data+0xe8): definito qui per la prima volta
+variabiliglobali.o:(.data+0xec): definizione multipla di "var60"
+main.o:(.data+0xec): definito qui per la prima volta
+variabiliglobali.o:(.data+0xf0): definizione multipla di "var61"
+main.o:(.data+0xf0): definito qui per la prima volta
+variabiliglobali.o:(.data+0xf4): definizione multipla di "var62"
+main.o:(.data+0xf4): definito qui per la prima volta
+variabiliglobali.o:(.data+0xf8): definizione multipla di "var63"
+main.o:(.data+0xf8): definito qui per la prima volta
+variabiliglobali.o:(.data+0xfc): definizione multipla di "var64"
+main.o:(.data+0xfc): definito qui per la prima volta
+variabiliglobali.o:(.data+0x100): definizione multipla di "var65"
+main.o:(.data+0x100): definito qui per la prima volta
+variabiliglobali.o:(.data+0x104): definizione multipla di "var66"
+main.o:(.data+0x104): definito qui per la prima volta
+variabiliglobali.o:(.data+0x108): definizione multipla di "var67"
+main.o:(.data+0x108): definito qui per la prima volta
+variabiliglobali.o:(.data+0x10c): definizione multipla di "var68"
+main.o:(.data+0x10c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x110): definizione multipla di "var69"
+main.o:(.data+0x110): definito qui per la prima volta
+variabiliglobali.o:(.data+0x114): definizione multipla di "var70"
+main.o:(.data+0x114): definito qui per la prima volta
+variabiliglobali.o:(.data+0x118): definizione multipla di "var71"
+main.o:(.data+0x118): definito qui per la prima volta
+variabiliglobali.o:(.data+0x11c): definizione multipla di "var72"
+main.o:(.data+0x11c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x120): definizione multipla di "var73"
+main.o:(.data+0x120): definito qui per la prima volta
+variabiliglobali.o:(.data+0x124): definizione multipla di "var74"
+main.o:(.data+0x124): definito qui per la prima volta
+variabiliglobali.o:(.data+0x128): definizione multipla di "var75"
+main.o:(.data+0x128): definito qui per la prima volta
+variabiliglobali.o:(.data+0x12c): definizione multipla di "var76"
+main.o:(.data+0x12c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x130): definizione multipla di "var77"
+main.o:(.data+0x130): definito qui per la prima volta
+variabiliglobali.o:(.data+0x134): definizione multipla di "var78"
+main.o:(.data+0x134): definito qui per la prima volta
+variabiliglobali.o:(.data+0x138): definizione multipla di "var79"
+main.o:(.data+0x138): definito qui per la prima volta
+variabiliglobali.o:(.data+0x13c): definizione multipla di "var80"
+main.o:(.data+0x13c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x140): definizione multipla di "var81"
+main.o:(.data+0x140): definito qui per la prima volta
+variabiliglobali.o:(.data+0x144): definizione multipla di "var82"
+main.o:(.data+0x144): definito qui per la prima volta
+variabiliglobali.o:(.data+0x148): definizione multipla di "var83"
+main.o:(.data+0x148): definito qui per la prima volta
+variabiliglobali.o:(.data+0x14c): definizione multipla di "var84"
+main.o:(.data+0x14c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x150): definizione multipla di "var85"
+main.o:(.data+0x150): definito qui per la prima volta
+variabiliglobali.o:(.data+0x154): definizione multipla di "var86"
+main.o:(.data+0x154): definito qui per la prima volta
+variabiliglobali.o:(.data+0x158): definizione multipla di "var87"
+main.o:(.data+0x158): definito qui per la prima volta
+variabiliglobali.o:(.data+0x15c): definizione multipla di "var88"
+main.o:(.data+0x15c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x160): definizione multipla di "var89"
+main.o:(.data+0x160): definito qui per la prima volta
+variabiliglobali.o:(.data+0x164): definizione multipla di "var90"
+main.o:(.data+0x164): definito qui per la prima volta
+variabiliglobali.o:(.data+0x168): definizione multipla di "var91"
+main.o:(.data+0x168): definito qui per la prima volta
+variabiliglobali.o:(.data+0x16c): definizione multipla di "var92"
+main.o:(.data+0x16c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x170): definizione multipla di "var93"
+main.o:(.data+0x170): definito qui per la prima volta
+variabiliglobali.o:(.data+0x174): definizione multipla di "var94"
+main.o:(.data+0x174): definito qui per la prima volta
+variabiliglobali.o:(.data+0x178): definizione multipla di "var95"
+main.o:(.data+0x178): definito qui per la prima volta
+variabiliglobali.o:(.data+0x17c): definizione multipla di "var96"
+main.o:(.data+0x17c): definito qui per la prima volta
+variabiliglobali.o:(.data+0x180): definizione multipla di "var97"
+main.o:(.data+0x180): definito qui per la prima volta
+variabiliglobali.o:(.data+0x184): definizione multipla di "var98"
+main.o:(.data+0x184): definito qui per la prima volta
+variabiliglobali.o:(.data+0x188): definizione multipla di "var99"
+main.o:(.data+0x188): definito qui per la prima volta
+variabiliglobali.o:(.data+0x18c): definizione multipla di "var100"
+main.o:(.data+0x18c): definito qui per la prima volta
+collect2: error: ld returned 1 exit status
+Makefile:4: set di istruzioni per l'obiettivo "main.exe" non riuscito
+make: *** [main.exe] Errore 1
