@@ -1,0 +1,86 @@
+
+# ifdef __CORRECT_ISO_CPP_STRING_H_PROTO
+# ifdef __CORRECT_ISO_CPP_STRING_H_PROTO
+#ifdef __CORRECT_ISO_CPP_STRING_H_PROTO
+#ifdef __cplusplus
+#ifdef _DIRENT_HAVE_D_NAMLEN
+# ifdef _DIRENT_HAVE_D_RECLEN
+# ifdef __GNUC__
+#ifdef __GNUC_VA_LIST
+#ifdef _IO_MTSAFE_IO
+#ifdef _IO_USE_OLD_IO_FILE
+#  ifdef __LDBL_COMPAT
+#ifdef _LIBC
+#ifdef _LIBC
+# ifdef __OPTIMIZE__
+#ifdef __O_TMPFILE
+#ifdef __PTHREAD_MUTEX_HAVE_PREV
+# ifdef __REDIRECT
+#    ifdef __REDIRECT_NTH
+# ifdef RE_DUP_MAX
+# ifdef __S_IFIFO
+# ifdef __S_IFLNK
+#ifdef _SIGNAL_H
+#ifdef	_STDIO_H
+#ifdef	_TIME_H
+#ifdef	_TIME_H
+# ifdef __USE_GNU
+# ifdef __USE_GNU
+# ifdef __USE_GNU
+# ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#   ifdef __USE_ISOC99
+#ifdef __USE_ISOC99
+#ifdef __USE_ISOC99
+#ifdef __USE_ISOC99
+#ifdef	__USE_ISOC99
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_LARGEFILE64
+# ifdef __USE_MISC
+# ifdef	__USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef	__USE_MISC
+#ifdef __USE_POSIX
+# ifdef __USE_POSIX199309
+#ifdef __USE_POSIX199309
+#ifdef __USE_XOPEN
+#ifdef __USE_XOPEN
+#ifdef __USE_XOPEN2K
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_XOPEN_EXTENDED
+#ifdef __USE_XOPEN_EXTENDED
+#ifdef _WCHAR_H
+#ifdef _WCHAR_H
+# ifdef __WIFCONTINUED
+# ifdef __WINT_TYPE__
+/* These are not #ifdef __USE_POSIX2 because they are
